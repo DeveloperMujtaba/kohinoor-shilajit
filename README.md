@@ -26,10 +26,10 @@ The box design should reflect:
 ## Box Content (5 Visible Sides)
 
 ### 1. **Front Side**
-- **Logo**: Centered at the top (e.g., "کوہِ نور شلاجیت").
+- **Logo**: Centered at the top (e.g., "کوہِ نور سلاجیت").
 - **Product Name**: Prominent, bold text:
   ```
-  Shilajit – خالص اور قدرتی
+  kohinoor Shilajit - کوہِ نور سلاجیت
   ```
 - **Tagline**: Below the name:
   ```
