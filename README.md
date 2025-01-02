@@ -112,10 +112,14 @@ The box design should reflect:
    - Work with a printing vendor to create prototypes and test the final look.
 
 ## Reference Designs
-![Shilajit Box Design](shilajit-001.jpg)
-![Shilajit Box Design](shilajit-002.jpg)
-![Shilajit Box Design](shilajit-003.jpg)
-![Shilajit Box Design](shilajit-004.webp)
+
+<div style="column-count: 3; column-gap: 10px;">
+  <img src="shilajit-001.jpg" alt="Design 1" style="width: 25%; margin-bottom: 10px;" />
+  <img src="shilajit-002.jpg" alt="Design 2" style="width: 25%; margin-bottom: 10px;" />
+  <img src="shilajit-003.jpg" alt="Design 3" style="width: 25%; margin-bottom: 10px;" />
+  <img src="shilajit-004.webp" alt="Design 3" style="width: 25%; margin-bottom: 10px;" />
+</div>
+
 
 ---
 
