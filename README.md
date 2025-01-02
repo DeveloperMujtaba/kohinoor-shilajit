@@ -111,7 +111,17 @@ The box design should reflect:
 4. **Print and Test**:
    - Work with a printing vendor to create prototypes and test the final look.
 
+## Reference Designs
+![Shilajit Box Design](shilajit-001.jpg)
+![Shilajit Box Design](shilajit-002.jpg)
+![Shilajit Box Design](shilajit-003.jpg)
+![Shilajit Box Design](shilajit-004.webp)
+
 ---
 
-## Note:
+## Notes
 Design should ensures a balance of traditional authenticity and modern luxury, catering to customers who value premium natural products.
+
+### Disclaimer  
+Some images included in this repository are used solely for **design reference purposes** and may be subject to copyright by their respective owners. These images are not our original creations, and all rights remain with the original image owners. If you are the copyright owner and wish for your image to be removed, please contact us.
+
